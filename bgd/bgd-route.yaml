@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd"
+  host: "bgd-bgd.tekton-demo-7a400c3767ede56c25f9bddd3cf7e308-0000.par01.containers.appdomain.cloud"
   port:
     targetPort: 8080
   to:
