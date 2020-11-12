@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.ocp4.chx.osecloud.com"
+  host: "bgd.tekton-demo-7a400c3767ede56c25f9bddd3cf7e308-0000.par01.containers.appdomain.cloud/applications"
   port:
     targetPort: 8080
   to:
